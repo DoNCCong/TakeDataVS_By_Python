@@ -1,4 +1,5 @@
-- The code to take the data in the website: https://finance.vietstock.vn including: PTV BID VCB
+- The code to take some data in the website:
+- Link: https://finance.vietstock.vn including: PTV BID VCB
 - You must install Firefox browser to use the code.
 - You must install selenium from command: python -m pip install selenium
 - Link: https://pypi.org/project/selenium/
