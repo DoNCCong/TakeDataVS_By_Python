@@ -6,3 +6,5 @@
 
 - I use python 3.9.8, you can test the code with the above vertion
 (Note: The code can run chromedrive.exe, but I don't think need it, because it has some error.)
+
+- The tool is created by education, don't use with the bad target
