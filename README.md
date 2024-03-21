@@ -10,4 +10,4 @@
 - Link Video
 https://www.youtube.com/watch?v=I0sgr6EOtjM&list=PLQ2CCbB0dUEvVqunPohu795RpU3rJe5qS&index=8
 
-- The tool is created by education, don't use with the bad target
+- The tool is created by education, I don't response for the bad target.
